@@ -15,6 +15,3 @@ COS 106 (Introduction to Web Technologies) term project: a responsive student po
 - `js/planner.js`, `js/contact.js`, `js/projects.js` — page-specific code
 - `images/` — photos and the portrait placeholder (replace `profile-placeholder.svg` with your photo)
 - `audio/quiet-hours.mp3` — background music
-
-## Run it
-Open `index.html` in a browser, or host the folder on GitHub Pages / Netlify.
